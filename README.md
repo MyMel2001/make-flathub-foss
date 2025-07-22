@@ -16,7 +16,7 @@ few miliseconds behind at the very least and at the very most a day or two behin
 due to their method of packaging (which is basicly to mirror/rebuild any FOSS FlatHub images
 IIRC, so you might as well use this tool for slightly more up-to-date software!)
 
-## Why a flat gnu as the mascot?
+## Why a messy flat gnu as the mascot?
 
 Because the joke is "It's like Diet FlatHub and if the actual people at GNU ate it maybe
 they wouldn't be such a tryhard about openness!" xD
