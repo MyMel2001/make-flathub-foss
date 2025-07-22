@@ -1,4 +1,4 @@
-# Make FlatHub FOSS. <img align="right" src="flat-gnu.png" width="25%></img>
+# Make FlatHub FOSS. <img align="right" src="flat-gnu.png" width="25%></img
 
 ## What does it do?
 
